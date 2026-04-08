@@ -1,11 +1,12 @@
 {
-  "release-type": "rust",
+  "release-type": "node",
 
   "bootstrap-sha": "e5f9899f637f7260080be581b98647d65ddad698",
 
   "packages": {
     ".": {
-      "component": "Test-prelease"
+      "component": "Test-prelease",
+      "initial-version": "1.0.0"
     }
   },
 
@@ -14,8 +15,6 @@
 
   "pull-request-header": ":robot: I have created a release *beep* *boop*. Also, this was changed in config!!!!!",
   "pull-request-footer": "This PR was generated with Release Please and changed in config!!",
-
-  "draft": true,
 
   "changelog-sections": [
     { "type": "feat", "section": "✨ New Features hehe", "hidden": false },
