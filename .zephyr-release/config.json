@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Pandoriux/zephyr-release/refs/heads/canary/schemas/v1/config-v1.kebab.json",
+
+  "version-files": {
+    "path": "deno.json",
+    "selector": "$.version"
+  }
+}
