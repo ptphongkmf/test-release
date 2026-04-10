@@ -1,5 +1,32 @@
 # Changelog
 
+<br/>
+
+
+<!-- CHANGELOG-BODY-START -->
+## [0.1.0](https://github.com/PTPhongKMF/test-release/compare/v0.0.3...v0.1.0) (2026-04-10) <!-- timezone: UTC -->
+
+### ⚠ BREAKING CHANGES
+
+- will braking bump?
+
+### Features
+
+- let see ([2444c02](https://github.com/PTPhongKMF/test-release/commit/2444c02c87b74906a691f06bbdcbe21b60652b32))
+- let see ([a0bbc34](https://github.com/PTPhongKMF/test-release/commit/a0bbc3475b361d33bee07bee540c4e09fb5caba7))
+- run ([7dcd92b](https://github.com/PTPhongKMF/test-release/commit/7dcd92ba337eb6543997b0b43026f14c11874a0d))
+- test limit to 10 ([3194ed1](https://github.com/PTPhongKMF/test-release/commit/3194ed1492653545b3cec41deee3c94dff0bf138))
+- will braking bump? ([42c34b3](https://github.com/PTPhongKMF/test-release/commit/42c34b362b1526dc770e95fbd65f427d12d8e022))
+
+### Bug Fixes
+
+- hehe ([80a5cf4](https://github.com/PTPhongKMF/test-release/commit/80a5cf47a6405d77108a4565db9f68325d6660b7))
+<!-- CHANGELOG-BODY-END -->
+
+<!-- ARCHIVED-CONTENT -->
+---
+# Changelog
+
 ## [0.3.0](https://github.com/PTPhongKMF/test-release/compare/Test-prelease-v0.2.0...Test-prelease-v0.3.0) (2026-04-02)
 
 
