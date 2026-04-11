@@ -6,5 +6,6 @@
     "selector": "$.version"
   },
   
+  "review": {"body-template": "⚠ Warning, this is header\n\n{{ changelogRelease }}"},
   "stop-resolving-commit-at": 10
 }
