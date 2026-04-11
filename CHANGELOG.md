@@ -4,6 +4,24 @@
 
 
 <!-- CHANGELOG-BODY-START -->
+## [0.4.0](https://github.com/PTPhongKMF/test-release/compare/v0.1.0...v0.4.0) (2026-04-11) <!-- timezone: UTC -->
+
+### ⚠ BREAKING CHANGES
+
+- **ci:** ci breaking footer   3
+- **main:** here
+
+### Features
+
+- **ci:** ci breaking header ([de91daa](https://github.com/PTPhongKMF/test-release/commit/de91daae00d0f1ff6b88cd2e018e8a10ca002d05))
+- **main:** here ([081b2e6](https://github.com/PTPhongKMF/test-release/commit/081b2e69875802e638b54002b49aa8bbed81dc7c))
+- update main ([#17](https://github.com/PTPhongKMF/test-release/issues/17)) ([360e472](https://github.com/PTPhongKMF/test-release/commit/360e472e28a2d1812c584fe3404a2f345d7113c1))
+
+### Bug Fixes
+
+- fix 1 ([466dfe6](https://github.com/PTPhongKMF/test-release/commit/466dfe6737cb074f36c1177fd2445775104103ed))
+- fix 2 ([1878a05](https://github.com/PTPhongKMF/test-release/commit/1878a05f7aa1bb10aab0816a8914dac0f2e4d782))
+
 ## [0.1.0](https://github.com/PTPhongKMF/test-release/compare/v0.0.3...v0.1.0) (2026-04-10) <!-- timezone: UTC -->
 
 ### ⚠ BREAKING CHANGES
