@@ -4,6 +4,35 @@
 
 
 <!-- CHANGELOG-BODY-START -->
+## 0.0.0 (2026-04-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* new ci
+* **ci:** ci breaking footer   3
+* **main:** here
+* will braking bump?
+
+### ✨ New Features hehe
+
+* **ci:** ci breaking header ([de91daa](https://github.com/PTPhongKMF/test-release/commit/de91daae00d0f1ff6b88cd2e018e8a10ca002d05))
+* let see ([2444c02](https://github.com/PTPhongKMF/test-release/commit/2444c02c87b74906a691f06bbdcbe21b60652b32))
+* **main:** here ([081b2e6](https://github.com/PTPhongKMF/test-release/commit/081b2e69875802e638b54002b49aa8bbed81dc7c))
+* run ([7dcd92b](https://github.com/PTPhongKMF/test-release/commit/7dcd92ba337eb6543997b0b43026f14c11874a0d))
+* test limit to 10 ([3194ed1](https://github.com/PTPhongKMF/test-release/commit/3194ed1492653545b3cec41deee3c94dff0bf138))
+* trash feat ([66eab2e](https://github.com/PTPhongKMF/test-release/commit/66eab2e9a74e1b3f625b341e76b6b0540ef36bf8))
+* update main ([#17](https://github.com/PTPhongKMF/test-release/issues/17)) ([360e472](https://github.com/PTPhongKMF/test-release/commit/360e472e28a2d1812c584fe3404a2f345d7113c1))
+* will braking bump? ([42c34b3](https://github.com/PTPhongKMF/test-release/commit/42c34b362b1526dc770e95fbd65f427d12d8e022))
+
+
+### 🐛 Bug Fixes hehe
+
+* fix 1 ([466dfe6](https://github.com/PTPhongKMF/test-release/commit/466dfe6737cb074f36c1177fd2445775104103ed))
+* fix 2 ([1878a05](https://github.com/PTPhongKMF/test-release/commit/1878a05f7aa1bb10aab0816a8914dac0f2e4d782))
+* hehe ([80a5cf4](https://github.com/PTPhongKMF/test-release/commit/80a5cf47a6405d77108a4565db9f68325d6660b7))
+* new ci ([f339179](https://github.com/PTPhongKMF/test-release/commit/f3391797c7dd35b58d8adac1c9e820530a0c2efb))
+
 ## [0.4.0](https://github.com/PTPhongKMF/test-release/compare/v0.1.0...v0.4.0) (2026-04-11) <!-- timezone: UTC -->
 
 ### ⚠ BREAKING CHANGES
