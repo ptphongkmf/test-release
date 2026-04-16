@@ -4,6 +4,20 @@
 
 
 <!-- CHANGELOG-BODY-START -->
+## [0.4.3](https://github.com/PTPhongKMF/test-release/compare/v0.4.0...v0.4.3) (2026-04-16) <!-- timezone: UTC -->
+
+### BREAKING CHANGES
+
+- new ci
+
+### Features
+
+- trash feat ([66eab2e](https://github.com/PTPhongKMF/test-release/commit/66eab2e9a74e1b3f625b341e76b6b0540ef36bf8))
+
+### Bug Fixes
+
+- new ci ([f339179](https://github.com/PTPhongKMF/test-release/commit/f3391797c7dd35b58d8adac1c9e820530a0c2efb))
+
 ## [0.4.0](https://github.com/PTPhongKMF/test-release/compare/v0.1.0...v0.4.0) (2026-04-11) <!-- timezone: UTC -->
 
 ### ⚠ BREAKING CHANGES
