@@ -37,5 +37,9 @@
 
     "release-breaking-section-heading": "### ⚠ BREAKING CHANGES",
     "release-breaking-section-heading-alt": "### BREAKING CHANGES"
+  },
+
+  "commit": {
+    "body-template": "this is body"
   }
 }
