@@ -3,6 +3,27 @@
 <br>
 
 <!-- CHANGELOG-BODY-START -->
+## [0.3.0](https://github.com/ptphongkmf/test-release/compare/v0.2.0...v0.3.0) (2026-05-05) <!-- timezone: UTC -->
+
+### BREAKING CHANGES
+
+- **bc:** this would be breaking, to 0.2.0
+
+### Features
+
+- bc: tjdsdsd ([eea5f66](https://github.com/ptphongkmf/test-release/commit/eea5f66d2b8bbd0fa57205639b86d571037a3947))
+- bc: hhehehe ([a96cf47](https://github.com/ptphongkmf/test-release/commit/a96cf47342656996a38a0a9ac25836b23943eb25))
+- see ([13c2603](https://github.com/ptphongkmf/test-release/commit/13c26037423e98b7edf05125ad71ec4e3ae09ce8))
+- minor should be 0.1.1 ([d04f3b3](https://github.com/ptphongkmf/test-release/commit/d04f3b3ac8cb6c94681d56eb8a4621d5c78fbf87))
+- **bc:** top ([e736f5a](https://github.com/ptphongkmf/test-release/commit/e736f5a87df879fe2274967d2d762eea5a02cbbe))
+- **bc:** this would be breaking, to 0.2.0 ([80a2ab1](https://github.com/ptphongkmf/test-release/commit/80a2ab1b08259a3d9bf469bb591fad2a560a2569))
+- **be:** bttomfdf ([6c81b46](https://github.com/ptphongkmf/test-release/commit/6c81b4650d918cf3c02fe08c4c7fc78a709861b7))
+
+### Bug Fixes
+
+- will work? ([00e7d30](https://github.com/ptphongkmf/test-release/commit/00e7d3098a2c9f3d3a70faa17360ffa5c50cabd4))
+- should still be 0.1.1? ([abb11a8](https://github.com/ptphongkmf/test-release/commit/abb11a83dc99a2dae7bcbd886e44e37a19047a95))
+
 ## [0.2.0](https://github.com/ptphongkmf/test-release/compare/v0.0.3...v0.2.0) (2026-04-28) <!-- timezone: UTC -->
 
 ### BREAKING CHANGES
