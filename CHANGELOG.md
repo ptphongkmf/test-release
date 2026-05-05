@@ -3,6 +3,32 @@
 <br>
 
 <!-- CHANGELOG-BODY-START -->
+## [0.4.0](https://github.com/ptphongkmf/test-release/compare/v0.3.0...v0.4.0) (2026-05-05) <!-- timezone: UTC -->
+
+### BREAKING CHANGES
+
+- 33333
+
+### Features
+
+- **scp:** 8 ([7232cd6](https://github.com/ptphongkmf/test-release/commit/7232cd6d9fa5d82a3311684a5179622b26a5adb2))
+- **scp:** 9 ([2ac30fe](https://github.com/ptphongkmf/test-release/commit/2ac30fecbb4b1e7c5c43ceae67b32046b38aafc7))
+- **scp:** 10 ([28e7b4f](https://github.com/ptphongkmf/test-release/commit/28e7b4f6d9bbe9a9a51e830634180303515074c3))
+- 2 ([5bbcd43](https://github.com/ptphongkmf/test-release/commit/5bbcd437252178126b02c619e8511719e3b85762))
+- 4 ([aaf033e](https://github.com/ptphongkmf/test-release/commit/aaf033ea2be6b1b34f0f3c8313c3008299335604))
+- 6 ([b3826e4](https://github.com/ptphongkmf/test-release/commit/b3826e481ec7eae5c40edf40425ebbd534849134))
+
+### Bug Fixes
+
+- 1 ([a418270](https://github.com/ptphongkmf/test-release/commit/a418270b6925b2c2bedea213963ffdb376f1ab9c))
+- 3 ([2c4e611](https://github.com/ptphongkmf/test-release/commit/2c4e61142d4bdb78c1886c075fcfe4a35862b78c))
+- 5 ([f481ef2](https://github.com/ptphongkmf/test-release/commit/f481ef28d392690bd531ee9edfca76fa7975eb97))
+
+### Performance Improvements
+
+- just do it tm ([8ae06bb](https://github.com/ptphongkmf/test-release/commit/8ae06bba4c8f95340a057ffb7a0b320f93b5651d))
+- huh ([a3383d8](https://github.com/ptphongkmf/test-release/commit/a3383d88422e69fec960d0a58639eca5bf4628a3))
+
 ## [0.3.0](https://github.com/ptphongkmf/test-release/compare/v0.2.0...v0.3.0) (2026-05-05) <!-- timezone: UTC -->
 
 ### BREAKING CHANGES
