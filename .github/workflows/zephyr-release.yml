@@ -18,5 +18,5 @@ jobs:
       - name: Run Zephyr Release
         uses: Pandoriux/zephyr-release@canary
         with:
-          config-path: ".zephyr-release/config.json"
-          config-format: "json"
+          config-path: ".zephyr-release/config.jsonc"
+          config-format: "jsonc"
