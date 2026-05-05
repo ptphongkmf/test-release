@@ -3,6 +3,45 @@
 <br>
 
 <!-- CHANGELOG-BODY-START -->
+## [0.2.0](https://github.com/ptphongkmf/test-release/compare/Test-prelease-v0.1.0...Test-prelease-v0.2.0) (2026-05-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* new config
+* 33333
+* **bc:** this would be breaking, to 0.2.0
+
+### refactor
+
+* new config ([7cf89ae](https://github.com/ptphongkmf/test-release/commit/7cf89aee58cfae5f2711c91fbaa3309f228fbe87))
+
+
+### ✨ New Features hehe
+
+* 2 ([5bbcd43](https://github.com/ptphongkmf/test-release/commit/5bbcd437252178126b02c619e8511719e3b85762))
+* 4 ([aaf033e](https://github.com/ptphongkmf/test-release/commit/aaf033ea2be6b1b34f0f3c8313c3008299335604))
+* 6 ([b3826e4](https://github.com/ptphongkmf/test-release/commit/b3826e481ec7eae5c40edf40425ebbd534849134))
+* bc: hhehehe ([a96cf47](https://github.com/ptphongkmf/test-release/commit/a96cf47342656996a38a0a9ac25836b23943eb25))
+* bc: tjdsdsd ([eea5f66](https://github.com/ptphongkmf/test-release/commit/eea5f66d2b8bbd0fa57205639b86d571037a3947))
+* **bc:** this would be breaking, to 0.2.0 ([80a2ab1](https://github.com/ptphongkmf/test-release/commit/80a2ab1b08259a3d9bf469bb591fad2a560a2569))
+* **bc:** top ([e736f5a](https://github.com/ptphongkmf/test-release/commit/e736f5a87df879fe2274967d2d762eea5a02cbbe))
+* **be:** bttomfdf ([6c81b46](https://github.com/ptphongkmf/test-release/commit/6c81b4650d918cf3c02fe08c4c7fc78a709861b7))
+* minor should be 0.1.1 ([d04f3b3](https://github.com/ptphongkmf/test-release/commit/d04f3b3ac8cb6c94681d56eb8a4621d5c78fbf87))
+* **scp:** 10 ([28e7b4f](https://github.com/ptphongkmf/test-release/commit/28e7b4f6d9bbe9a9a51e830634180303515074c3))
+* **scp:** 8 ([7232cd6](https://github.com/ptphongkmf/test-release/commit/7232cd6d9fa5d82a3311684a5179622b26a5adb2))
+* **scp:** 9 ([2ac30fe](https://github.com/ptphongkmf/test-release/commit/2ac30fecbb4b1e7c5c43ceae67b32046b38aafc7))
+* see ([13c2603](https://github.com/ptphongkmf/test-release/commit/13c26037423e98b7edf05125ad71ec4e3ae09ce8))
+
+
+### 🐛 Bug Fixes hehe
+
+* 1 ([a418270](https://github.com/ptphongkmf/test-release/commit/a418270b6925b2c2bedea213963ffdb376f1ab9c))
+* 3 ([2c4e611](https://github.com/ptphongkmf/test-release/commit/2c4e61142d4bdb78c1886c075fcfe4a35862b78c))
+* 5 ([f481ef2](https://github.com/ptphongkmf/test-release/commit/f481ef28d392690bd531ee9edfca76fa7975eb97))
+* should still be 0.1.1? ([abb11a8](https://github.com/ptphongkmf/test-release/commit/abb11a83dc99a2dae7bcbd886e44e37a19047a95))
+* will work? ([00e7d30](https://github.com/ptphongkmf/test-release/commit/00e7d3098a2c9f3d3a70faa17360ffa5c50cabd4))
+
 ## [0.3.0](https://github.com/ptphongkmf/test-release/compare/v0.2.0...v0.3.0) (2026-05-05) <!-- timezone: UTC -->
 
 ### BREAKING CHANGES
