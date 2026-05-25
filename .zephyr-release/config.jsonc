@@ -42,6 +42,10 @@
     "release-breaking-section-heading-alt": "### BREAKING CHANGES"
   },
 
+  "release": {
+    "header-template": "### 🚧 Currently under development 🚧\n\n⚠ This release is intended primarily for development tracking, testing, and maintaining project history.\n"
+  },
+
   "commit": {
     "body-template": "this is body"
   }
