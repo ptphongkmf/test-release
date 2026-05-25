@@ -1,8 +1,6 @@
 {
   "release-type": "node",
 
-  "bootstrap-sha": "4f654b59918c3c2ebca098590cb22e87a1d83ea9",
-
   "packages": {
     ".": {
       "component": "Test-prelease",
