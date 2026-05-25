@@ -11,12 +11,11 @@ concurrency:
 
 jobs:
   zephyr-release:
+    name: Autorelease
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Run Zephyr Release
-        uses: Pandoriux/zephyr-release@canary
+        uses: ptphongkmf/zephyr-release@canary
         with:
           config-path: ".zephyr-release/config.jsonc"
           config-format: "jsonc"

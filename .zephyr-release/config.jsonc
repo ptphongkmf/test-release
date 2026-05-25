@@ -34,7 +34,7 @@
 
   "changelog": {
     "commit-sort-order": "oldest-first",
-    "commit-group-mode": "scope-first",
+    "commit-group-mode": "none",
 
     "file-release-template": "{{ changelogReleaseAlt }}",
 
