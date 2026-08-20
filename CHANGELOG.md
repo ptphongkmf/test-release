@@ -3,6 +3,12 @@
 <br>
 
 <!-- CHANGELOG-BODY-START -->
+## [0.4.1](https://github.com/ptphongkmf/test-release/compare/v0.4.0...v0.4.1) (2026-08-20) <!-- timezone: UTC -->
+
+### Features
+
+- test ([200a5f6](https://github.com/ptphongkmf/test-release/commit/200a5f682d27ff3c9425cc4d4e9bf544757755e4))
+
 ## [0.4.0](https://github.com/ptphongkmf/test-release/compare/v0.3.0...v0.4.0) (2026-05-25) <!-- timezone: UTC -->
 
 ### BREAKING CHANGES
